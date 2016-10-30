@@ -1,0 +1,20 @@
+Git:-
+Git bash
+
+Editors:-
+Notepad++
+
+Java:-
+Java8
+Ecllipse
+Intellij
+BlueJ
+
+Python:
+Python 2.7
+JetBrains PyCharm Community Edition
+
+Hadoop:
+Oracle VM_Box
+Putty
+FileZilla
