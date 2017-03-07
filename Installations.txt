@@ -1,6 +1,10 @@
 ScreenShorts:-
 snipping Tool
 
+Databases:-
+Mysql
+DB_browser from http://sqlitebrowser.org/
+
 Git:-
 Git bash
 
@@ -21,3 +25,6 @@ Hadoop:
 Oracle VM_Box
 Putty
 FileZilla
+Ubuntu (spark, HDFS and Apache Zeepline in it.)
+CDH
+spark and HDFS copy on local host
