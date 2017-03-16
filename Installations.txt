@@ -25,6 +25,9 @@ Scala 10.5
 Scala IDE for ecllipse
 SBT for Intellij
 
+maven:-
+mv2
+
 Hadoop:
 Oracle VM_Box
 Putty
