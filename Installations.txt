@@ -15,7 +15,6 @@ Java:-
 Java8
 Ecllipse
 Intellij
-BlueJ
 
 Python:-
 Python 2.7
