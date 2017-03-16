@@ -35,3 +35,19 @@ FileZilla
 Ubuntu (spark, HDFS and Apache Zeepline in it.)
 CDH
 spark and HDFS copy on local host
+
+Check installed software versions:-
+scala: scala -version
+python: python -V
+java: java -version
+hadoop: hadoop version
+hive: hive --version
+sqoop: sqoop version
+spark: spark-shell version
+spark: sc.version
+Scala in Spark:
+util.Properties.versionString
+Python in Spark:
+import sys
+sys.version
+
