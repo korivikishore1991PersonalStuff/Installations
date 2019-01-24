@@ -1,5 +1,6 @@
 ScreenShorts:-
 snipping Tool
+ShareX
 
 Databases:-
 Mysql
@@ -37,6 +38,7 @@ Putty
 X-shell
 FileZilla
 WinSCP
+xftp
 Ubuntu (spark 2.0, HDFS and Apache Zeepline in it.)
 CDH on VM-Box
 HDP on VM-Box
