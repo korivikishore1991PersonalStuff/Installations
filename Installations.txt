@@ -10,7 +10,8 @@ Git:-
 Git bash
 
 Editors:-
-Notepad++
+Notepad++  
+X share  
 
 Java:-
 Java8
