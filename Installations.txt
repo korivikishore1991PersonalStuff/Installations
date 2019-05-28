@@ -8,11 +8,17 @@ DB_browser from http://sqlitebrowser.org/
 
 Git:-
 Git bash
-
+  
+Pictorial Tools:
+paint 3 D  
+X share  
+  
 Editors:-
 Notepad++  
-X share  
-
+  
+Flow Chart tools:  
+YEd  
+  
 Java:-
 Java8
 Ecllipse
