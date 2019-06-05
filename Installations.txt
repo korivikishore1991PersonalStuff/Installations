@@ -57,6 +57,7 @@ python: python -V
 java: java -version
 hadoop: hadoop version
 hive: hive --version
+HBase: hbase version
 sqoop: sqoop version
 spark: spark-shell version
 spark: sc.version
