@@ -43,6 +43,7 @@ Hadoop:
 Oracle VM_Box
 Putty
 X-shell
+MobaXterm
 FileZilla
 WinSCP
 xftp
