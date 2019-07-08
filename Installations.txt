@@ -15,6 +15,7 @@ X share
   
 Editors:-
 Notepad++  
+sublime text editor   
   
 Flow Chart tools:  
 YEd  
