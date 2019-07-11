@@ -11,7 +11,7 @@ Git bash
   
 Pictorial Tools:
 paint 3 D  
-Snipper  
+snipping tool  
 X share  
   
 Editors:-
