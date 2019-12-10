@@ -71,4 +71,7 @@ util.Properties.versionString
 Python in Spark:
 import sys
 sys.version
-
+  
+  
+Other Installations:  
+Octave(for calculations and visuals)    
