@@ -4,7 +4,8 @@ ShareX
 
 Databases:-
 Mysql
-DB_browser from http://sqlitebrowser.org/
+DB_browser from http://sqlitebrowser.org/ 
+DB_Visualizer  
 
 Git:-
 Git bash
@@ -20,6 +21,7 @@ sublime text editor
   
 Flow Chart tools:  
 YEd  
+Visual Paradigm Community Edition  
   
 Java:-
 Java8
