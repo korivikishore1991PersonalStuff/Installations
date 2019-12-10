@@ -22,6 +22,7 @@ sublime text editor
 Flow Chart tools:  
 YEd  
 er assistant  
+visual paradigm  
 https://www.lucidchart.com/documents#docs?folder_id=home&browser=icon  
   
 Java:-
