@@ -21,7 +21,7 @@ sublime text editor
   
 Flow Chart tools:  
 YEd  
-Visual Paradigm Community Edition  
+er assistant  
   
 Java:-
 Java8
